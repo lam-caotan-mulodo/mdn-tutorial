@@ -1,0 +1,21 @@
+body {
+  font-family: 'Open Sans Light',Helvetica,Arial,sans-serif;
+}
+
+.input, .output {
+  width: 90%;
+  height: 10em;
+  padding: 10px;
+  border: 2px solid #0095dd;
+}
+img {
+  max-width: 100%;
+}
+
+.output {
+  overflow: auto;
+}
+
+button {
+  padding: 10px 10px 10px 0;
+}
